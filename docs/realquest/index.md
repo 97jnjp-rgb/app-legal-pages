@@ -1,12 +1,10 @@
 # RealQuest / 現実クエスト
 
-This directory is reserved for future public Legal, Privacy, and Support pages for RealQuest / 現実クエスト.
+This is a scaffold landing page for future public Legal, Privacy, and Support pages for RealQuest / 現実クエスト.
 
 ## Publication Status
 
 Terms, Privacy Policy, and Support pages are not published yet.
-
-The GitHub Pages scaffold landing page for this area is `index.md`.
 
 Final public pages will be added only after:
 
@@ -21,4 +19,6 @@ Final public pages will be added only after:
 - `legal/privacy/`
 - `support/`
 
-Do not use these paths, this README, or the scaffold landing page as live policy/support URLs until the final pages are published and checked.
+Do not use this scaffold page or the planned paths as final policy, privacy, support, or store metadata URLs until the final pages are published and checked.
+
+No analytics, contact form, JavaScript, or tracking is used by this scaffold.

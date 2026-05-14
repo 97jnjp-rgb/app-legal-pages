@@ -2,6 +2,8 @@
 
 This is a scaffold landing page for future public Legal, Privacy, and Support pages for RealQuest / 現実クエスト.
 
+[Back to App Legal Pages](../)
+
 ## Publication Status
 
 Terms, Privacy Policy, and Support pages are not published yet.

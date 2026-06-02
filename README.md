@@ -22,9 +22,14 @@ GitHub Pages should use:
 
 ## Contact
 
-Support and privacy inquiries are accepted through GitHub Issues:
+Support and privacy inquiries are accepted through Google Forms:
+
+- `https://forms.gle/J5XSFu9QqVhoDPoNA`
+
+Public issue reports that do not include personal information can also be sent
+through GitHub Issues:
 
 - `https://github.com/97jnjp-rgb/app-legal-pages/issues`
 
-No analytics, contact form, JavaScript, tracking code, secrets, signing files,
-or private credentials are included in this repository.
+No analytics, embedded JavaScript, tracking code, secrets, signing files, or
+private credentials are included in this repository.

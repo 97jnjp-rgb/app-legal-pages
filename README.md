@@ -26,7 +26,5 @@ Support and privacy inquiries are accepted through Google Forms:
 
 - `https://forms.gle/J5XSFu9QqVhoDPoNA`
 
-GitHub Issues are not used for support, privacy inquiries, or bug reports.
-
 No analytics, embedded JavaScript, tracking code, secrets, signing files, or
 private credentials are included in this repository.
